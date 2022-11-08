@@ -1,0 +1,7 @@
+* {
+}
+.profilepic {
+  display: grid;
+  place-items: end;
+  border-radius: 50%;
+}
